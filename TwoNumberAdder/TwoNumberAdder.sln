@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoNumberAdder", "TwoNumberAdder.csproj", "{CAC607DA-21AB-4BEA-9B37-F027297BC757}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2A923DA0-500E-4C9C-A100-1F501BA2D120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAC607DA-21AB-4BEA-9B37-F027297BC757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC607DA-21AB-4BEA-9B37-F027297BC757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC607DA-21AB-4BEA-9B37-F027297BC757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC607DA-21AB-4BEA-9B37-F027297BC757}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {607146EA-A08D-4547-BD75-4AFF18AABACA}
+	EndGlobalSection
+EndGlobal
